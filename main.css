@@ -123,6 +123,20 @@ a {
 	text-decoration: none;
 }
 
+.text{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-family:"futura-pt",sans-serif;
+    font-weight:800;
+    font-size:30px;
+    text-transform:uppercase;
+    opacity: 0;
+}
+
+
 .image {
 	margin-bottom: 24px;
 	position: relative;
