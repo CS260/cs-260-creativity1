@@ -134,7 +134,10 @@ a {
     font-weight:500;
     font-size:25px;
     text-transform:uppercase;
+<<<<<<< HEAD
     opacity: 0;
+=======
+>>>>>>> 70bfd2a8a1065c30e69d5ead6dbb7567801f606e
     z-index: -1;
 }
 
